@@ -1,0 +1,38 @@
+﻿[
+  {
+    "id": 1,
+    "name": "송림식당",
+    "category": "한식",
+    "location": "경기 수원시 영통구 월드컵로193번길 21 원천동",
+    "priceRange": "7,000-13,000원",
+    "rating": 4.99,
+    "description": "맛있는 한식 맛집입니다.",
+    "recommendedMenu": ["순두부", "김치찌개", "소불고기", "제육볶음"],
+    "likes": 0,
+    "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5"
+  },
+  {
+    "id": 2,
+    "name": "아주대 삼거리 부대찌개",
+    "category": "한식",
+    "location": "경기 수원시 영통구 아주로 35",
+    "priceRange": "9,000-11,000원",
+    "rating": 4.85,
+    "description": "얼큰한 국물과 라면사리가 일품인 부대찌개 전문점입니다.",
+    "recommendedMenu": ["부대찌개", "계란말이", "라면사리"],
+    "likes": 0,
+    "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c"
+  },
+  {
+    "id": 3,
+    "name": "우시장국밥",
+    "category": "국밥",
+    "location": "경기 수원시 영통구 월드컵로 150",
+    "priceRange": "8,000-10,000원",
+    "rating": 4.78,
+    "description": "진한 국물이 든든한 전통 국밥집입니다.",
+    "recommendedMenu": ["소머리국밥", "수육", "순대국"],
+    "likes": 0,
+    "image": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624"
+  }
+]
